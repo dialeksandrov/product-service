@@ -5,7 +5,7 @@ import org.apache.log4j.spi.ErrorCode;
 import java.io.Serializable;
 
 /**
- * @author diale
+ * @author dialeksandrov
  * @created 19/02/2022
  **/
 
